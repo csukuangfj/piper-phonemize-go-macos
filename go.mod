@@ -1,3 +1,3 @@
-module github.com/csukuangfj/piper-phonemize-go-macos/v2
+module github.com/csukuangfj/piper-phonemize-go-macos
 
 go 1.17
